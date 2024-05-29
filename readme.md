@@ -1,7 +1,7 @@
 step 1:
 using following commands you can donwload yolov9 model(same has been included in ipynb file also) 
 
-!git clone https://github.com/SkalskiP/yolov9.git
+!git clone https://github.com/SkalskiP/yolov9.git </br>
 !pip install -r yolo9/requirements.txt -q
 
 and 

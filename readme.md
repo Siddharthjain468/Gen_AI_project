@@ -1,3 +1,7 @@
+Diffusion mdel + YOLO
+
+Note: The images included are made by prompt givem by me 
+
 step 1:
 using following commands you can donwload yolov9 model(same has been included in ipynb file also) 
 
